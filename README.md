@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone, my name is Dmitry. I am a beginner neurodeveloper 👋
 
 <!--
 **DmitryMV9/DmitryMV9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
